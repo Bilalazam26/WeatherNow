@@ -6,7 +6,7 @@ A beautiful, single-screen weather app built using **Kotlin**, **Jetpack Compose
 ---
 ## 📸 Screenshots
 
-<p align="center">
+<p align="left">
 
 https://github.com/user-attachments/assets/07652aa3-0147-47b6-b119-72524dedbfc2
 
