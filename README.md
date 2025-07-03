@@ -4,6 +4,15 @@ A beautiful, single-screen weather app built using **Kotlin**, **Jetpack Compose
 
 
 ---
+
+## 📦 Download Tudee APK
+
+You can download and install the latest version of Weather Now here:
+
+[⬇️ Download Weather Now APK (v1.0.0)](https://github.com/Bilalazam26/WeatherNow/releases/download/v1.0.0/Weather.Now.apk)
+
+---
+
 ## 📸 Demo
 
 <p align="left">
